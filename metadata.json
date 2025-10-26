@@ -1,0 +1,5 @@
+{
+  "name": "EV.AI - EV Conversion Copilot",
+  "description": "An intelligent copilot that turns vehicle images and data into step-by-step EV conversion plans, including parts, safety checks, and cost projections, using Google's Gemini API.",
+  "requestFramePermissions": []
+}
